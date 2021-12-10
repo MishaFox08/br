@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         BR | Script forum
+// @name         BR | Adm script forum
 // @namespace    https://forum.blackrussia.online
 // @version      1.0.5.10
 // @description  try to take over the world!
-// @author       moiseeey
+// @author       mishafox
 // @match        https://forum.blackrussia.online/index.php?threads/*
 // @include      https://forum.blackrussia.online/index.php?threads/
 // @grant        none
-// @license    MIT
-// @collaborator moiseeev
+// @license      MIT
+// @collaborator mishafox
 // @icon https://icons.iconarchive.com/icons/aha-soft/iron-man/48/Ironman-Mask-3-Old-icon.png
 // @copyright 2021, Moiseeev (https://openuserjs.org/users/moiseeev)
 // @updateURL https://openuserjs.org/meta/moiseeev/BR_Script_forum.meta.js
